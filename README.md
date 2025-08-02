@@ -1,13 +1,8 @@
-# 🚀 Day 03 – Python Basics Continued: Arithmetic, Conversion & Input 🎯
+# 🚀 Day 03 – Python Basics Continued: Arithmetic, Conversion & Input🎯
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Progress](https://img.shields.io/badge/Day-03-green)
 ![Challenge](https://img.shields.io/badge/100_Days-Project_Challenge-yellow)
-
----
-
-![Learning Python](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1213.jpg)
-![Python Basics](https://img.freepik.com/free-vector/python-programming-language-computer-code_1302-22916.jpg)
 
 ---
 
